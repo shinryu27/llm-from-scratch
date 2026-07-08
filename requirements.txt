@@ -1,0 +1,3 @@
+torch>=2.0
+numpy
+tiktoken  # optional: GPT-2 byte-pair encoding; a built-in BPE is used as fallback
