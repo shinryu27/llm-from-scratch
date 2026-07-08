@@ -80,6 +80,5 @@ llm-from-scratch/
 ## References
 
 - S. Raschka, *Build a Large Language Model (From Scratch)*, Manning, 2024.
-  Code: https://github.com/rasbt/LLMs-from-scratch
 - A. Vaswani et al., "Attention Is All You Need", NeurIPS 2017.
 - A. Radford et al., "Language Models are Unsupervised Multitask Learners" (GPT-2), 2019.
